@@ -1,5 +1,5 @@
 name: PlayerVanish
-version: 1.0
+version: ${project.version}
 main: nl.danieljunek17.playervanish.PlayerVanish
 api-version: 1.16
 authors: [Danieljnuek17]
